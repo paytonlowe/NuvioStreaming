@@ -13,8 +13,6 @@
 ## Stable Release
 Nuvio is now available as a stable release! Version 1.0.0 brings all major features from the beta phase, refined and optimized for the best user experience.
 
-[Download Latest Release](https://github.com/tapframe/NuvioStreaming/tags)
-
 ---
 
 ## Installation
@@ -99,7 +97,7 @@ Nuvio is now available as a stable release! Version 1.0.0 brings all major featu
 
 ### Setup
 ```bash
-git clone https://github.com/tapframe/NuvioStreaming.git
+git clone https://github.com/paytonlowe/NuvioStreaming.git
 cd NuvioStreaming
 npm install
 npx expo start
@@ -124,17 +122,7 @@ npx expo run:ios      # iOS build
 
 ## Issues
 
-Report bugs and request features via [GitHub Issues](https://github.com/tapframe/NuvioStreaming/issues)
-
----
-
-
-
-## License
-
-[![GNU GPLv3](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+Report bugs and request features via [GitHub Issues](https://github.com/paytonlowe/NuvioStreaming/issues)
 
 ---
 
