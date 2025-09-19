@@ -23,8 +23,6 @@ Nuvio is now available as a stable release! Version 1.0.0 brings all major featu
 ### SideStore Installation
 <img src="https://github.com/SideStore/assets/blob/main/icon.png?raw=true" width="32" height="32" align="left"> [![Add to SideStore](https://img.shields.io/badge/Add%20to-SideStore-green?style=for-the-badge)](https://tinyurl.com/NuvioSidestore)
 
-**Manual URL:** `https://raw.githubusercontent.com/tapframe/NuvioStreaming/main/nuvio-source.json`
-
 ---
 
 ## Core Features
